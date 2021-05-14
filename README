@@ -1,0 +1,15 @@
+Project Description:
+This project is intended to act as a functional Hash Table.
+The program will read data from a file and use hashing to place the strings from the file into buckets.
+The hash function uses the ASCII values of the strings to place them in their respective buckets.
+The program also sorts and displays the contents of the hash table in alphabetical and reverse number order based on the number of times the given string ocurred.
+
+Expected Input:
+The program expects a file so that it can read the strings from the file.
+
+Expected Output:
+The program should first print the strings of the file in alphabetical order.
+Then the program should print the strings of the file in reverse numeric order by the number of occurrences.
+
+How to compile: 
+To compile and run: make run
