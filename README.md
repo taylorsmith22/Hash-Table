@@ -1,3 +1,5 @@
+Word Count - Hash Table
+
 Project Description:
 This project is intended to act as a functional Hash Table.
 The program will read data from a file and use hashing to place the strings from the file into buckets.
